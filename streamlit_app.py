@@ -3,7 +3,7 @@ import requests
 
 
 with st.sidebar:
-    st.title("Test UI")
+    st.title("Technogi LLM Test UI")
 
     st.divider()
 
